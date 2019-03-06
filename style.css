@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	border:0;
+}
+h1{
+	text-align:center;
+	font-size: 575%;
+	color: #4A4444;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	margin: 25% 0%;
+}
+h2{
+	text-align:center;
+	font-size: 555%;
+	color: #E5E5E5;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	padding-top: 0px;
+	padding-bottom: 250px;
+
+}
+
+/*----Start parallax*/
+.parallax
+{
+	background: url("https://images.wallpaperscraft.com/image/mountains_lake_tops_top_view_119133_1920x1080.jpg") repeat fixed 50%;
+}d
+.parallax-inner{
+	padding-top: 40px;
+	padding-bottom: 40px; 
+}
+
+/*----End parallax*/
